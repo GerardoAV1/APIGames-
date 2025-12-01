@@ -1,5 +1,5 @@
 // data/videojuegos.js
-let videojuegos = [
+const videojuegos = [
   {
     id: "1",
     title: "Resident Evil: Requiem",
@@ -125,4 +125,4 @@ let videojuegos = [
   }
 ];
 
-module.exports = videojuegos;
+export default videojuegos;
